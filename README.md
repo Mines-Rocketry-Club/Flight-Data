@@ -9,4 +9,4 @@ Example:
 > `2024-03-16-serial-11016-flight-0001_<NAME>_<ROCKETNAME>.eeprom`
 ## Filetypes
 ### Altus Metrum
-Upload just the `.eeprom` file. The KMls and CSVs can be generated from these and should not be uploaded.
+Upload just the `.eeprom` file. The KMLs and CSVs can be generated from these and should not be uploaded.
